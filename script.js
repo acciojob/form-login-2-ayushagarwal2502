@@ -1,6 +1,6 @@
 //your JS code here. If required.
-function submitForm(event){
-	event.preventDefault();
+function submitForm(){
+	
 	let a=document.getElementById("First Name").value;
 	let b=document.getElementById("Last Name").value;
 	let c=document.getElementById("Phone Number").value;
